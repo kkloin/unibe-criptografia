@@ -4,5 +4,8 @@ Este repositorio contiene materiales, recursos y actividades correspondientes a 
 
 ## Colaboradores
 
-- Raúl Luna - 25-1085
+- Kelvin Sánchez Rosario | 22-0908
+[@kkloin](https://github.com/kkloin)
+
+- Raúl Luna | 25-1085
 [@raulelunap](https://github.com/raulelunap)
