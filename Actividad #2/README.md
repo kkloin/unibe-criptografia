@@ -1,4 +1,4 @@
-# Actividad: Implementación de código utilizando el cifrado de Alberti
+# Actividad #2: Implementación de código utilizando el cifrado de Alberti
 
 ## Descripción:
 
