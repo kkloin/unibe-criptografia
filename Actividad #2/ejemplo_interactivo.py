@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Ejemplo Interactivo del Cifrado de Alberti
 ==========================================
