@@ -1,4 +1,4 @@
-# 🔐 Cifrado por Transposición de Columna Simple
+# 🔐 Cifrado por transposición de columna simple
 
 Este proyecto es una aplicación en Python que implementa el algoritmo clásico de **cifrado por transposición de columna simple**.  
 Permite cifrar y descifrar mensajes, con opción de guardar el resultado en un archivo de texto.
