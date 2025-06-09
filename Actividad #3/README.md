@@ -50,7 +50,8 @@ Debes ingresar el texto a procesar (mensaje) y una clave (sin espacios, en mayú
 Puedes elegir si quieres mostrar el resultado por pantalla o guardarlo en un archivo _output.txt_.
 
 ## 🧪 Ejemplos de uso
-# 🔒 Cifrar un mensaje
+
+**🔒 Cifrar un mensaje**
 ```bash
 ¿Qué deseas hacer? (cifrar/descifrar): cifrar
 Introduce el mensaje: defensa en profundidad
@@ -60,7 +61,7 @@ Introduce la clave (sin espacios): CLAVE
 🔎 Resultado:
 ENFDPRAODUENCESACIFX
 ```
-# 🔓 Descifrar un mensaje
+**🔓 Descifrar un mensaje**
 ```bash
 ¿Qué deseas hacer? (cifrar/descifrar): descifrar
 Introduce el mensaje: ENFDPRAODUENCESACIFX
