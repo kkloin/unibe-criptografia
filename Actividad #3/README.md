@@ -28,7 +28,7 @@ Para **descifrar**, se reconstruye la matriz usando la clave y se lee fila por f
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/transposicion_columna_simple.git
+git clone https://github.com/kkloin/unibe-criptografia.git
 cd transposicion_columna_simple
 ```
 
