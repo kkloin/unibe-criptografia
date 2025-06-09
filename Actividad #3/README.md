@@ -30,3 +30,47 @@ Clona este repositorio en tu máquina local:
 ```bash
 git clone https://github.com/tu_usuario/transposicion_columna_simple.git
 cd transposicion_columna_simple
+```
+
+## ▶️ Ejecución
+Desde la terminal, ejecuta:
+
+```bash
+python3 cifrado_transposicion.py
+```
+
+## 🧭 Instrucciones de uso
+1. Al iniciar el programa:
+Se te preguntará si deseas cifrar o descifrar un mensaje.
+
+2. Luego:
+Debes ingresar el texto a procesar (mensaje) y una clave (sin espacios, en mayúsculas o minúsculas).
+
+3. Finalmente:
+Puedes elegir si quieres mostrar el resultado por pantalla o guardarlo en un archivo _output.txt_.
+
+## 🧪 Ejemplos de uso
+# 🔒 Cifrar un mensaje
+```bash
+¿Qué deseas hacer? (cifrar/descifrar): cifrar
+Introduce el mensaje: defensa en profundidad
+Introduce la clave (sin espacios): CLAVE
+¿Deseas guardar el resultado en un archivo? (sí/no): no
+
+🔎 Resultado:
+ENFDPRAODUENCESACIFX
+```
+# 🔓 Descifrar un mensaje
+```bash
+¿Qué deseas hacer? (cifrar/descifrar): descifrar
+Introduce el mensaje: ENFDPRAODUENCESACIFX
+Introduce la clave (sin espacios): CLAVE
+¿Deseas guardar el resultado en un archivo? (sí/no): no
+
+🔎 Resultado:
+DEFENSAENPROFUNDIDAD
+```
+📌 Nota: Los espacios se eliminan al cifrar para simplificar el proceso. Puedes reinsertarlos manualmente si lo necesitas.
+
+## 💾 Salida a archivo
+Si eliges guardar el resultado, el programa lo escribirá automáticamente en _output.txt_ en el mismo directorio.
