@@ -1,5 +1,5 @@
 
-# Proyecto: 🔐 Cifrado combinado por sustitución y matrices en Linux
+# 🔐 Cifrado combinado por sustitución y matrices en Linux
 
 ## Descripción
 
